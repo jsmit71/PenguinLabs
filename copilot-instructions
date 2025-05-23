@@ -1,0 +1,37 @@
+<!-- Use this file to provide workspace-specific custom instructions to Copilot. For more details, visit https://code.visualstudio.com/docs/copilot/copilot-customization#_use-a-githubcopilotinstructionsmd-file -->
+
+# Penguin Labs Capital Website
+
+This is a modern, responsive website for Penguin Labs Capital, a venture capital firm. The website features:
+
+## Design Principles
+- Clean, minimalist design inspired by the LoveFrom website
+- Penguin character as the central brand element
+- Modern typography using Inter font family
+- Smooth animations and interactive elements
+- Professional color scheme with blue and orange accents
+
+## Technologies Used
+- Vanilla HTML5, CSS3, and JavaScript
+- CSS Grid and Flexbox for layout
+- CSS custom properties for theming
+- Intersection Observer API for scroll animations
+- SVG graphics for the penguin character
+
+## Code Style Guidelines
+- Use semantic HTML elements
+- Follow BEM methodology for CSS class naming where applicable
+- Use CSS custom properties for consistent theming
+- Implement smooth transitions and animations
+- Ensure responsive design for all screen sizes
+- Add proper accessibility features (ARIA labels, semantic markup)
+
+## Key Features
+- Animated penguin SVG character
+- Smooth scrolling navigation
+- Fade-in animations on scroll
+- Interactive hover effects
+- Mobile-responsive design
+- Parallax scrolling effects
+
+When making changes, maintain the elegant and professional aesthetic while keeping the penguin theme central to the brand identity.
